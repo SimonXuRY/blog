@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentation for Hugo Learn Theme</title>
+    <link>https://ruiyang-xu.github.io/blog/</link>
+    <description>Recent content on Documentation for Hugo Learn Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://ruiyang-xu.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Page</title>
+      <link>https://ruiyang-xu.github.io/blog/basics/second-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiyang-xu.github.io/blog/basics/second-content/</guid>
+      <description>Ruiyang XU Please say something important here 中国人不坑中国人 @Ruiyang</description>
+    </item>
+    
+    <item>
+      <title>Content2</title>
+      <link>https://ruiyang-xu.github.io/blog/basics/content2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiyang-xu.github.io/blog/basics/content2/</guid>
+      <description>Ruiyang XU Please say something important here 中国人不坑中国人 @Ruiyang</description>
+    </item>
+    
+    <item>
+      <title>Content2</title>
+      <link>https://ruiyang-xu.github.io/blog/basics/first-content/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://ruiyang-xu.github.io/blog/basics/first-content/</guid>
+      <description>Ruiyang XU Please say something important here 中国人不坑中国人 @Ruiyang</description>
+    </item>
+    
+  </channel>
+</rss>
